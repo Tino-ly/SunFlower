@@ -1,5 +1,5 @@
 (function() {
-    const numOfFlowers = 4;
+    const numOfFlowers = 2;
     const growGarden = () => {
       function getRandomArbitrary(min, max) {
         return Math.round(Math.random() * (max - min)) + min;
